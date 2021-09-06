@@ -1,34 +1,38 @@
 # Numpy-Series-GFG
-This repository is having all the codes used in Numpy Series by GeeksForGeeks.
+This repository is having all the codes used in Live Stream of GFG Python Channel by Ashish Jangra.
 
 -----
 ### About the Repository?
 
 You'll learn the following topics in the given Notebook with practical implementation:
+
 ##### 1. Mastering Strings - Part 1
-        Installation 
-        Array
-        Shape
-        Zeros and Ones
+        Formation 
+        Indexind
+        Slicing
+        Manipulation
+        Concatination
 ##### 2. Mastering Strings - Part 2
-        Reshape
-        Arange
-        Linespace
-        Flatten
-        Random
-##### 3. Mastering Lists - Part 1
-        Add
-        Sub
-        Mul
-        Sum
-        Max
-        Min
+        Uppercase
+        Lowercase
+        Capitalise
+        Title
+        Split
+        Custom functions Capitalise
+        Custom functions Title
+#### 3. Mastering Lists - Part 1
+        User Input
+        Why Lists
+        Indexing from left
+        Indexing from Right
+        Slicing
+        Len function
 ##### 4. Mastering Lists - Part 2
-        Adding 2 Arrays
-        Sub 2 Arrays
-        Multiply 2 Arrays
-        Dot Product of two Arrays
-        Indexing and Slicing
+        Multi-dimension lists
+        Indexing on Multi-dimension lists
+        Searching in Multi-dimension lists
+        Element access in Multi-dimension lists
+        Student Marks Project using Multi-dimension lists
 -----
 
 ### Who am I?
