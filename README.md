@@ -1,53 +1,34 @@
-# Livestream-on-GFG-Python
-This repository is having all the codes used in GFG Live stream on Python
------
+# Numpy-Series-GFG
+This repository is having all the codes used in Numpy Series by GeeksForGeeks.
 
+-----
 ### About the Repository?
 
 You'll learn the following topics in the given Notebook with practical implementation:
-##### 1. Getting Started with Numpy
+##### 1. Mastering Strings - Part 1
         Installation 
         Array
         Shape
         Zeros and Ones
-##### 2. Reshape and Random Number Generator
+##### 2. Mastering Strings - Part 2
         Reshape
         Arange
         Linespace
         Flatten
         Random
-##### 3. Arithmetic Operations on Array
+##### 3. Mastering Lists - Part 1
         Add
         Sub
         Mul
         Sum
         Max
         Min
-##### 4. Arithmetic Operations on Multiple Arrays
+##### 4. Mastering Lists - Part 2
         Adding 2 Arrays
         Sub 2 Arrays
         Multiply 2 Arrays
         Dot Product of two Arrays
         Indexing and Slicing
-##### 5. Array Sorting	
-        Sorting Arrays
-        Row-wise Sorting
-        Column-wise Sorting
-        Diff Sorting Algorithms
-##### 6. Arrays Slicing	
-        Array Cropping
-        Indexing
-        Slicing
-##### 7. Array Merging
-        Concatenation
-        VStack
-        HStack
-        VSplit
-        HSplit
-##### 8. Automating using Numpy
-        Elements Findind
-        Frquency Counting
-        Lists vs Numpy Array"
 -----
 
 ### Who am I?
