@@ -33,6 +33,14 @@ You'll learn the following topics in the given Notebook with practical implement
         Searching in Multi-dimension lists
         Element access in Multi-dimension lists
         Student Marks Project using Multi-dimension lists
+
+##### 5. Multi-dimension Lists -
+        Indexing on Multi-dimension lists
+        Sum of elements row-wise
+        Sum of all the elements
+        Finding Diagonal Elements
+        Finding Opposite Diagonal Elements
+        Sum of Diagonal Elements
 -----
 
 ### Who am I?
